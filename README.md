@@ -1,6 +1,6 @@
 # Clean Redux Pattern
 
-<!-- <img src="nexus_rest_api_github_cover.png" width="100%" /> -->
+<img src="clean-redux-patterns_github_cover.png" width="100%" />
 
 Simplify and elevate React state management with the 'Clean Redux Pattern.' Featuring a well-designed folder structure, it promotes modularity and clarity. Seamless integration of Redux-Thunk and Axios streamlines asynchronous actions and API interactions. Utilizing async/await simplifies the code appearance, ensuring a clean and synchronous workflow.
 
