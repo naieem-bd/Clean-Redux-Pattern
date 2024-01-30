@@ -30,9 +30,10 @@ First you have to clone the repository and install the dependencies:
 <!-- <img src="postman_collection_screenshot.jpg" width="100%" /> -->
 <!-- This 'postman_collection.json' file is available in the root folder. -->
 
-<!-- ## Acknowledgements
+## Acknowledgements
 
-- [Node](https://nodejs.org/en)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/) -->
+- [React](https://react.dev/)
+- [Redux](https://redux.js.org/)
+- [React Redux](https://react-redux.js.org/)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Axios](https://axios-http.com/)
