@@ -20,19 +20,19 @@ First you have to clone the repository and install the dependencies:
 
 ## Features
 
-- User authentication
-- CRUD operations for posts
-- Liking / disliking posts
-- Following / unfollowing users
-- Timeline posts
-- And many more
+- Simplify React state management
+- Organized and well-structured code
+- Better folder structure
+- Proper way to use 'Redux-Thunk'
+- Clean Asynchronous operations
+- Enhanced development experience
 
-<img src="postman_collection_screenshot.jpg" width="100%" />
-This 'postman_collection.json' file is available in the root folder.
+<!-- <img src="postman_collection_screenshot.jpg" width="100%" /> -->
+<!-- This 'postman_collection.json' file is available in the root folder. -->
 
-## Acknowledgements
+<!-- ## Acknowledgements
 
 - [Node](https://nodejs.org/en)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
+- [Mongoose](https://mongoosejs.com/) -->
